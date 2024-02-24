@@ -94,6 +94,7 @@ M.defaults = {
       ["f4"]         = "toggle-preview",
       ["shift-down"] = "preview-page-down",
       ["shift-up"]   = "preview-page-up",
+      ["tab"] = "down",
     },
   },
   actions       = {
