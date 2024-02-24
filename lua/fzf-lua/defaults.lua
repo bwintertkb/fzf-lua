@@ -95,6 +95,7 @@ M.defaults = {
       ["shift-down"] = "preview-page-down",
       ["shift-up"]   = "preview-page-up",
       ["tab"] = "down",
+      ["shift-tab"] = "up",
     },
   },
   actions       = {
